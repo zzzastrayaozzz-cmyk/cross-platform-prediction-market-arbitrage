@@ -1,8 +1,3 @@
-# Version4 Realtime Monitor
-
-`version4` keeps the realtime monitoring behavior from `version3`, but splits the
-old single-file implementation into a clearer package layout for GitHub use.
-
 ## Layout
 
 - `cross_platform_arbitrage_realtime.py`
