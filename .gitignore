@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+raw_data/
+structured_data/
+analysis/
+report/

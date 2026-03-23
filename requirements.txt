@@ -1,0 +1,5 @@
+aiohttp
+requests
+numpy
+scikit-learn
+cryptography
